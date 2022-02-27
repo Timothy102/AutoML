@@ -37,8 +37,9 @@ ecgModel := e.BuildAndCompile(shape, 0.001)
 
 ```
 
-# Contact
+## Contact
+Please, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/tim-cvetko-32842a1a6/) or [Gmail](tim@metawaveai.com).
 
-LinkedIn : https://www.linkedin.com/in/tim-cvetko-32842a1a6/
+## License
 
-Medium : https://cvetko-tim.medium.com/
+Licensed under the MIT [LICENSE](LICENSE)
